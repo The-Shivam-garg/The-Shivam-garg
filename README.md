@@ -4,7 +4,7 @@
 
 <!--  -->
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/shivam-garg-15675720a/" target="_blank"> SHIVAM GARG </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<img width="40%" align="right"   src="as.png" >
+<img width="40%" align="right"   src="aa.gif" >
 
 A bit about Myself, I am <b>Shivam Garg</b> pursuing my <b>Computer Science Degree</b> from Eshan College of Engineering, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Data Science and Machine Learning </b> but still, wish to explore many fields. ⚡
 
