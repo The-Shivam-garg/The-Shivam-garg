@@ -4,7 +4,7 @@
 
 <!--  -->
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/shivam-garg-15675720a/" target="_blank"> SHIVAM GARG </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<img width="40%" align="right"   src="https://github.com/The-Shivam-garg/The-Shivam-garg/workbench.svg" >
+<img width="40%" align="right"   src="as.png" >
 
 A bit about Myself, I am <b>Shivam Garg</b> pursuing my <b>Computer Science Degree</b> from Eshan College of Engineering, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Data Science and Machine Learning </b> but still, wish to explore many fields. ⚡
 
@@ -61,8 +61,8 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [My Portfolio Website]()     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
-| [College Library Website]()   | This is a College Library Website in which you can keep a record of all the books you have    | issued.© 2021 Shivam Garg
-| [Machine Learning Prediction Model]()     | In this regression task we will predict the  percentage of marks that a student is expected to score based upon the number of hours they studied. |
+| [College Community Website]()   | This is a College Library Website in which you can keep a record of all the books you have    | issued.© 2021 Shivam Garg
+| [Magic Mirror]()     | In this Project we have automate the mirror using esp32 and add some cool features like google assistant . |
 | [E-Mail Classification Model]()     | Classify emails as spam or not-spam on the basis of the message.
 | [Netflix-Clone-PC-App]()     | Netflix clone App built with React and Redux. The objective of this project is to practising the concepts of 'React-Hooks', 'Redux-Hooks', react-router, redux-setup and testing code using Jest.
 | [Netflix-Clone-Mobile-App]()     | Netflix clone App built with ReactJS, TMDB Api, Firebase, CSS and JavaScript.
