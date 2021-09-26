@@ -2,20 +2,20 @@
 <a href="#"><img width="100%" height="auto" src="header_.png" height="175px"/></a>
 
 
-<!--  -->
+<!--intRO name  -->
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/shivam-garg-15675720a/" target="_blank"> SHIVAM GARG </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <img width="40%" align="right"   src="code.gif" >
 
-A bit about Myself, I am <b>Shivam Garg</b> pursuing my <b>Computer Science Degree</b> from Eshan College of Engineering, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Data Science and Machine Learning </b> but still, wish to explore many fields. ⚡
+A bit about Myself, I am <b>Shivam Garg</b> pursuing <b>Computer Science Degree</b> from Eshan College of Engineering, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Artifical Intelligence  and Bionics </b> but still, exploring Other domains. ⚡
 
-<h3 align="center">A Passionate Web And App Developer | Data Scientist | Machine learning enthusiast </h3>
+<h3 align="center">A Passionate Frontend-Web Developer | Artifical Intelligence enthusiast | Researcher </h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=The-Shivam-garg&label=Profile%20views&color=6805D3&style=flat" alt="ShivamGarg" /> </p></h3>
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
    
-I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery and ReactJs. I have Worked on Supervised and Unsupervised Machine learning, ML Algorithms(Linear regression, Naive byes, K-means and random forest). Have explored and built projects using datasets of scikit-learn , Kaggle and keras. Tech: Data Science, Machine learning, Microsoft Azure, Deep learning, Google cloud, ReactJs, NodeJs, Firebase, Tensor Flow, SQL, Flutter.
+I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery. I have Worked on various Projects related to Artifical Intelligence,also I'm Microsoft Certified in MS AZURE AI. Have explored and built projects using datasets of scikit-learn , Kaggle and keras. Tech: Artifical Intelligence, Bionics, Microsoft Azure, Deep learning, Google cloud, Avionics, NodeJs, Firebase, Tensor Flow, SQL, Flutter.
  Known Languages: Python, C++, C, Java, Html, JavaScript, and CSS.
 
 <p align="center"> 
@@ -63,15 +63,13 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 | [My Portfolio Website]()     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
 | [College Community Website]()   | This is a College Library Website in which you can keep a record of all the books you have    | issued.© 2021 Shivam Garg
 | [Magic Mirror]()     | In this Project we have automate the mirror using esp32 and add some cool features like google assistant . |
-| [E-Mail Classification Model]()     | Classify emails as spam or not-spam on the basis of the message.
-| [Netflix-Clone-PC-App]()     | Netflix clone App built with React and Redux. The objective of this project is to practising the concepts of 'React-Hooks', 'Redux-Hooks', react-router, redux-setup and testing code using Jest.
-| [Netflix-Clone-Mobile-App]()     | Netflix clone App built with ReactJS, TMDB Api, Firebase, CSS and JavaScript.
-| [Payment Gateway Integration]()     | Payment Gateway Integration for Donating specific amount of Money directly to the Needed one. Payment gateway integration, Razorpay is used.
+| [Swarm Drone ]()     | Upcomming Soon. 
+
 
 
 <h1 align="center">Let's Get Connected</h1>
 
-Recently I have started a Community to help my fellow mates.Join the Telegram Channel & Discord channel in which will try to share my knowledge and about opportunities I know. I am active on LinkedIN and Twitter as well. You can reach out to me I will be happy to help you.</p>
+Recently I have started a Community to help fellow mates.Join the Social accounts & Discord channel in which will try to share the knowledge and about opportunities. I am active on LinkedIN and Twitter as well. You can reach out to me ,  It will be my Pleasure to help you.</p>
 
 <div align="center">
 
