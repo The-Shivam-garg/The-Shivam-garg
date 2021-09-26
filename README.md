@@ -6,7 +6,7 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/shivam-garg-15675720a/" target="_blank"> SHIVAM GARG </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <img width="40%" align="right"   src="code.gif" >
 
-A bit about Myself, I am <b>Shivam Garg</b> pursuing <b>Computer Science Degree</b> from Eshan College of Engineering, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Artifical Intelligence  and Bionics </b> but still, exploring Other domains. ⚡
+A Small Introduction of  Myself, I am <b>Shivam Garg</b> pursuing <b>Computer Science Degree</b> from Eshan College of Engineering, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Artifical Intelligence  and Bionics </b> but still, exploring Other domains. ⚡
 
 <h3 align="center">A Passionate Frontend-Web Developer | Artifical Intelligence enthusiast | Researcher </h3>
 
@@ -15,7 +15,7 @@ A bit about Myself, I am <b>Shivam Garg</b> pursuing <b>Computer Science Degree<
 
 <h1>Technical Skills 🛠</h1>
    
-I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery. I have Worked on various Projects related to Artifical Intelligence,also I'm Microsoft Certified in MS AZURE AI. Have explored and built projects using datasets of scikit-learn , Kaggle and keras. Tech: Artifical Intelligence, Bionics, Microsoft Azure, Deep learning, Google cloud, Avionics, NodeJs, Firebase, Tensor Flow, SQL, Flutter.
+I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery. I have Worked on various Projects related to Artifical Intelligence,also <b> I'm Microsoft Certified in MS AZURE AI </b> . Tech: Artifical Intelligence, Bionics, Microsoft Azure, Deep learning, Google cloud, Avionics, NodeJs, Firebase, Tensor Flow, SQL, Flutter.
  Known Languages: Python, C++, C, Java, Html, JavaScript, and CSS.
 
 <p align="center"> 
@@ -27,13 +27,6 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
- <img alt="scikit learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />  
- <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
- <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
- <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
- <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
- <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
- <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
@@ -51,7 +44,7 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 </p>
 
   
-I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
+I believe in implementing the knowledge in the Real-World. Projects play a major role in showcasing the Skills. They help in predicting skills of a person. So let's have a look at my Project Section.
 
 <h1 align="center">Projects</h1>
 
@@ -61,7 +54,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [My Portfolio Website]()     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
-| [College Community Website]()   | This is a College Library Website in which you can keep a record of all the books you have    | issued.© 2021 Shivam Garg
+| [College Community Website]()   | This is a College COmmunity Website in which you can keep a record of all the events,members.    | issued.© 2021 Shivam Garg
 | [Magic Mirror]()     | In this Project we have automate the mirror using esp32 and add some cool features like google assistant . |
 | [Swarm Drone ]()     | Upcomming Soon. 
 
@@ -69,14 +62,17 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 <h1 align="center">Let's Get Connected</h1>
 
-Recently I have started a Community to help fellow mates.Join the Social accounts & Discord channel in which will try to share the knowledge and about opportunities. I am active on LinkedIN and Twitter as well. You can reach out to me ,  It will be my Pleasure to help you.</p>
+Recently I have started a Community <b> TECHBENCHER's </b>to help fellow mates.Join the Social accounts & Discord channel in which will try to share the knowledge and about opportunities. I am active on LinkedIN and Twitter as well. You can reach out to me ,  It will be my Pleasure to help you.</p>
 
 <div align="center">
 
-<a  href="" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-<a  href="" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href=""><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<a  href="https://www.linkedin.com/in/shivam-garg-15675720a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<a href="https://twitter.com/Shivams_twt" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+
+<a href="https://hashnode.com/@Shiva12"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
 <a  href=""><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a  href=""><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
