@@ -60,7 +60,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [My Portfolio Website](https://sauravmukherjee44.github.io/Portfolio-Saurav-Mukherjee/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
+| [My Portfolio Website]()     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
 | [College Library Website]()   | This is a College Library Website in which you can keep a record of all the books you have    | issued.© 2021 Shivam Garg
 | [Machine Learning Prediction Model]()     | In this regression task we will predict the  percentage of marks that a student is expected to score based upon the number of hours they studied. |
 | [E-Mail Classification Model]()     | Classify emails as spam or not-spam on the basis of the message.
@@ -98,3 +98,4 @@ Recently I have started a Community to help my fellow mates.Join the Telegram Ch
 
  [![The-Shivam-garg's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=The-Shivam-garg&theme=xcode)](https://git.io/The-Shivam-garg)
 
+<a href="https://github.com/The-Shivam-garg?tab=followers"><img src="https://img.shields.io/github/followers/The-Shivam-garg?label=Followers&style=social" alt="GitHub Badge"></a>
