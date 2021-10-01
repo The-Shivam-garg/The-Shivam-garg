@@ -44,7 +44,7 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 </p>
 
   
-I believe in implementing the knowledge in the Real-World. Projects play a major role in showcasing the Skills. They help in predicting skills of a person. So let's have a look at my Project Section.
+
 
 <h1 align="center">Projects</h1>
 
