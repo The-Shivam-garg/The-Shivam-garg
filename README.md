@@ -90,5 +90,4 @@ Recently I have started a Community <b> TECHBENCHER's </b>to help fellow mates.J
 
 <a href="https://github.com/The-Shivam-garg?tab=followers"><img src="https://img.shields.io/github/followers/The-Shivam-garg?label=Followers&style=social" alt="GitHub Badge"></a>
 
-![snake gif](https://github.com/The-Shivam-garg/The-Shivam-garg/blob/output/github-contribution-grid-snake.gif)
-<br>
+
