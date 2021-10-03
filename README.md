@@ -92,7 +92,3 @@ Recently I have started a Community <b> TECHBENCHER's </b>to help fellow mates.J
 
 ![snake gif](https://github.com/The-Shivam-garg/The-Shivam-garg/blob/output/github-contribution-grid-snake.gif)
 <br>
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/The-Shivam-garg/count.svg" />
-</p>
