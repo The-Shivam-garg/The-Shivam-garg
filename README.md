@@ -45,7 +45,7 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 
  
 <p>
-
+  <img alt="BINANNCE" src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" />
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
