@@ -103,7 +103,7 @@ Recently I have started a Community <b> TECHBENCHER's </b>to help fellow mates.J
  [![The-Shivam-garg's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=The-Shivam-garg&theme=xcode)](https://git.io/The-Shivam-garg)
 
 
- <a href="https://github.com/The-Shivam-garg?tab=followers"><img src="https://img.shields.io/github/followers/The-Shivam-garg?label=Followers&style=social" alt="GitHub Badge" align="right"></a>
+ <a href="https://github.com/The-Shivam-garg?tab=followers"><img src="https://img.shields.io/github/followers/The-Shivam-garg?label=Followers&style=social" alt="GitHub Badge" align="center"></a>
 
 
 
