@@ -4,6 +4,7 @@
 
 <!--intRO name  -->
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/shivam-garg-15675720a/" target="_blank"> SHIVAM GARG </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<a href="https://github.com/The-Shivam-garg?tab=followers"><img src="https://img.shields.io/github/followers/The-Shivam-garg?label=Followers&style=social" alt="GitHub Badge" align="right"></a>
 <img width="40%" align="right"   src="code.gif" >
 
 A Small Introduction of  Myself, I am <b>Shivam Garg</b> pursuing <b>Computer Science Degree</b> from Eshan College of Engineering, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Artifical Intelligence  and Bionics </b> but still, exploring Other domains. ⚡
@@ -43,7 +44,7 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
     <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
- 
+ <h1>Started Exploring </h1>
 <p>
   <img alt="BINANNCE" src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" />
   <img alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -104,6 +105,6 @@ Recently I have started a Community <b> TECHBENCHER's </b>to help fellow mates.J
 
  
 
-<a href="https://github.com/The-Shivam-garg?tab=followers"><img src="https://img.shields.io/github/followers/The-Shivam-garg?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 
