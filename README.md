@@ -43,7 +43,33 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
     <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
-  
+  <!-- Your github readme stats
+You can use this api: https://github.com/anuraghazra/github-readme-stats
+-->
+<p>
+  <a href="https://github.com/onimur/handle-path-oz">
+    <img width="55%" align="right" alt="The-Shivam-garg github stats" src="https://github-readme-stats.vercel.app/api?username=The-Shivam-garg&show_icons=true&hide_border=true" />
+  </a>
+
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+</p>
 
 
 <h1 align="center">Projects</h1>
@@ -56,9 +82,15 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 | [My Portfolio Website](https://github.com/The-Shivam-garg/MP-PersonalPortfolio)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
 | [Elearn Website -bigB](https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e)   | This is a Elearn Website which has all material related to education whether it's of Univeristy or Universe    | issued.© 2021 Shivam Garg
 | [Smart Mirror](https://github.com/The-Shivam-garg/Smart-mirror)     | In this Project we have automate the mirror using esp32 and add some cool features like google assistant . |
-| [Community Website ](https://the-shivam-garg.github.io/CollegeCommunity-Website/)     | Techbenchers official website . We are a community of geeks. Come learn, share and connect with us. 
+| [Community Website ](https://github.com/The-Shivam-garg/CollegeCommunity-Website)     | Techbenchers official website . We are a community of geeks. Come learn, share and connect with us. 
 
-
+<a href="https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Shivam-garg&repo=BigB-E-learn-Websit-e&theme=dracula" />
+</a>
+<a href="https://the-shivam-garg.github.io/CollegeCommunity-Website/" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Shivam-garg&repo=CollegeCommunity-Website&theme=dracula" />
+</a>
+<div align="center">
 
 <h1 align="center">Let's Get Connected</h1>
 
@@ -88,6 +120,9 @@ Recently I have started a Community <b> TECHBENCHER's </b>to help fellow mates.J
   </div>
 
  [![The-Shivam-garg's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=The-Shivam-garg&theme=xcode)](https://git.io/The-Shivam-garg)
+
+
+ 
 
 <a href="https://github.com/The-Shivam-garg?tab=followers"><img src="https://img.shields.io/github/followers/The-Shivam-garg?label=Followers&style=social" alt="GitHub Badge"></a>
 
