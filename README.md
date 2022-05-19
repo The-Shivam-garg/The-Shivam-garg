@@ -7,7 +7,7 @@
 
 <img width="40%" align="right"   src="code.gif" >
 
-A Small Introduction of  Myself, I am <b>Shivam Garg</b> pursuing <b>Computer Science Degree</b> from Eshan College of Engineering, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Artifical Intelligence  and Bionics </b> but still, exploring Other domains. ⚡
+A Small Introduction of  Myself, I am <b>Shivam Garg</b> pursuing <b>Computer Science Degree</b> from Dr.APJ Abdul Kalam Technical University, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Artifical Intelligence  and Bionics </b> but still, exploring Other domains. ⚡
 
 <h3 align="center">A Passionate Frontend-Web Developer | Artifical Intelligence enthusiast | Researcher </h3>
 
