@@ -5,8 +5,6 @@
 <!--intRO name  -->
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/shivam-garg-15675720a/" target="_blank"> SHIVAM GARG </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<img width="40%" align="right"   src="code.gif" >
-
 A Small Introduction of  Myself, I am <b>Shivam Garg</b> pursuing <b>Computer Science Degree</b> from Dr. APJ Abdul Kalam Technical University, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Artifical Intelligence  and Bionics </b> but still, exploring Other domains. ⚡
 
 <h3 align="center">A Passionate Frontend-Web Developer | Artifical Intelligence enthusiast | Researcher </h3>
@@ -16,24 +14,20 @@ A Small Introduction of  Myself, I am <b>Shivam Garg</b> pursuing <b>Computer Sc
 
 <h1>Technical Skills 🛠</h1>
    
-I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery. I have Worked on various Projects related to Artifical Intelligence,also <b> I'm Microsoft Certified in MS AZURE AI </b> . Tech: Artifical Intelligence, Bionics, Microsoft Azure, Deep learning, Google cloud, Avionics, NodeJs, Firebase, Tensor Flow, SQL, Flutter.
- Known Languages: Python, C++, C, Java, Html, JavaScript, and CSS.
+I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery. I have Worked on various Projects related to Artifical Intelligence,also <b> I'm 3 x @Microsoft Certified in Azure Fundamental , Artificial Intelligence, Security. </b> . Tech: Artifical Intelligence, Bionics, Microsoft Azure, Deep learning, Google cloud, Avionics.
+ Known Languages: Python,C, Html, JavaScript, and CSS.
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
- <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-    <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
     <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
     <img alt="Kubernets" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
     <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
