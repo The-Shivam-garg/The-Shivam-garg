@@ -3,7 +3,7 @@
 
 
 <!--intRO name  -->
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/shivam-garg-15675720a/" target="_blank"> SHIVAM GARG </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1><img width="38%" align="right" src="code.gif" >
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/shivam-garg-15675720a/" target="_blank"> SHIVAM GARG </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1><img width="38%" align="right" src="code.gif" >
 
 A Small Introduction of  Myself, I am <b>Shivam Garg</b> pursuing <b>Computer Science Degree</b> from Dr. APJ Abdul Kalam Technical University, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Artifical Intelligence  and Bionics </b> but still, exploring Other domains. ⚡
 
