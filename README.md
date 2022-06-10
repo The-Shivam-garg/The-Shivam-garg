@@ -62,8 +62,8 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 <a href="https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Shivam-garg&repo=BigB-E-learn-Websit-e&theme=dracula" />
 </a>
-<a href="https://github.com/The-Shivam-garg/CollegeCommunity-Website" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Shivam-garg&repo=CollegeCommunity-Website&theme=dracula" />
+<a href="https://github.com/The-Shivam-garg/SideHustlers-Community-Website" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Shivam-garg&repo=SideHustlers-Community-Website&theme=dracula" />
 </a>
 <div align="center">
 
