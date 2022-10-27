@@ -5,14 +5,15 @@
 <!--intRO name  -->
 <h1 align="center" >Hi, I'm <a href="https://linktr.ee/ShivamGrg" target="_blank"> SHIVAM GARG </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1><img width="38%" align="right" src="code.gif" >
 
-A Small Introduction of <b>Shivam</b>, He is a pre-final year student pursuing <B>Bachelors of technology in Computer Science and Engineering.</b> 
-His main areas of interest are Community Management/Developer Relation (DevRel), product design and Devops techniques. Moreover, he is <b>2 times certified in Scrum and Agile methodology</b>.
+ <b> Hello </b> , pleased to meet you Stranger !
 
-In addition to his present position as a TEDx Organizer,he had <b> interned at various early and mid-stage startups ( precisely 5 )</b>⚡.
+I'm Shivam Garg, a Multi-talented human with over 2+ year of experiences in wide range of Development and Community management disciplines. A pre-final year student pursuing Bachelors of technology in Computer Science and Engineering. 
+
+Formerly a Community Manager in a mid stage EdTech startup .In addition to this present position as a TEDx Organizer , I have also interned at various early and mid-stage startups ( precisely 5 ) in the domain's of {EdTech, Hiring , web3 and Open Source Community}</b>⚡.Looking <b>forward to a transition to a Developer Relation(DevRel) role.</b>
 
 <b>Community Work:</b>He had previously worked as a mentor and project administrator for several open source programs, including GSSOC, GWOC, JWOC, and SWOC; as a community lead for Microsoft Azure Developer and AWS Community Builder; and as a facilitator for #IamRemarkable by Google.
 
-In addition to this, He is also somewhat interested in the field of research as well and since <b>two of his papers were chosen for presentation at a prestigious international conference i.e.International Astronautical Congress (IAC'22)</b> which was held at Paris. These papers focus on the use of emerging technology to enhance space missions and to evoke the interest of a broad audience in matters related to space. 🚀
+In addition to this, He is also somewhat interested in the field of <b>research</b> as well and since <b>two of his papers were chosen for presentation at a prestigious international conference i.e.International Astronautical Congress (IAC'22)</b> which was held at Paris🗼. These papers focus on the use of emerging technology to enhance space missions and to evoke the interest of a broad audience in matters related to space. 🚀
 
 <h3 align="center">A Passionate DevRel | Devops Apostle |  Artifical Intelligence enthusiast | Researcher | Product/Project Manager </h3>
 
